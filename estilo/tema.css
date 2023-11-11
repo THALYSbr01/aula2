@@ -1,9 +1,23 @@
 body{
-    color: black;
-    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    background-color: beige;
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 .container{
     padding: 0px 45%;
-}z
+}
+
+nav{
+    background-color:blue;
+    border-radius: 10px 10px 10px 10px ;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px ;
+    box-shadow: 2px 20px 20px rgba(134, 134, 134, 0.61);
+}
+
+nav h1 {
+
+}
